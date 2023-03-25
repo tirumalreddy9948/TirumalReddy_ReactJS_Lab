@@ -35,19 +35,12 @@
       "date": "2023-02-05T00:00:00.000Z",
       "id": 5
     },
-    {
+    { 
       "expenseDescription": "expense-6",
       "payeeName": "Rahul",
-      "price": 600,
+      "price": 700,
       "date": "2023-02-06T00:00:00.000Z",
       "id": 6
-    },
-    {
-      "expenseDescription": "Pending Internet Bill",
-      "payeeName": "Raj",
-      "price": 200,
-      "date": "2023-02-15",
-      "id": 7
     }
   ]
 }
